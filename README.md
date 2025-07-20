@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate self-learner and developer who lo
 👯 Open to collaboration on projects in Web Development, Game Design, Arduino-based hardware, and AI applications.
 💬 Ask me about Python, C++, Unity Game Development, Git, Web Dev, and creative coding challenges.
 
-🌐 Portfolio:  nishantrana-portfolio.netlify.app
+🌐 Portfolio:  https://nishantrana-portfolio.netlify.app/
 
 📫 Reach me at: 94187nishant@gmail.com
 
