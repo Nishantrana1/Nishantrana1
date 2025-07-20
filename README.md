@@ -1,4 +1,5 @@
-👋 Hi there, I'm Nishant Rana!
+👋 Hi there,
+I'm Nishant Rana!
 
 Welcome to my GitHub profile! I'm a passionate self-learner and developer who loves blending creativity with technology. Whether it's coding smart solutions, building interactive games, or designing intuitive web experiences, I enjoy bringing ideas to life.
 
@@ -8,13 +9,16 @@ Welcome to my GitHub profile! I'm a passionate self-learner and developer who lo
 👯 Open to collaboration on projects in Web Development, Game Design, Arduino-based hardware, and AI applications.
 💬 Ask me about Python, C++, Unity Game Development, Git, Web Dev, and creative coding challenges.
 
-🌐 Portfolio: nishantrana-portfolio.netlify.app
+🌐 Portfolio:  nishantrana-portfolio.netlify.app
+
 📫 Reach me at: 94187nishant@gmail.com
 
 ⚡ Fun Fact: I break things just to rebuild them better—and yes, I love doing 24-hour code or art challenges!
 
 🚀 Skills & Expertise
+
 💻 Programming Languages
+
 Python, C++, C
 
 🧠 Frameworks & Libraries(LEARNING)
@@ -39,4 +43,5 @@ Python Contact Manager: JSON-powered contact management with search and update f
 Robotic Car Control: Bluetooth-controlled motor car using Arduino and mobile input.
 
 📬 Let’s Connect!
+
 Check out my repositories to explore my work! I love collaborating on innovative tech, learning from others, and contributing to creative projects. Feel free to reach out or drop by for a chat about code, art, or futuristic ideas.
